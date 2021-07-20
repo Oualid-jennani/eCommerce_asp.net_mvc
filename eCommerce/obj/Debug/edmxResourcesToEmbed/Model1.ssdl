@@ -1,0 +1,129 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="eComModel.Store" Provider="System.Data.SqlClient" ProviderManifestToken="2012" Alias="Self" xmlns:store="http://schemas.microsoft.com/ado/2007/12/edm/EntityStoreSchemaGenerator" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm/ssdl">
+  <EntityType Name="Category">
+    <Key>
+      <PropertyRef Name="id" />
+    </Key>
+    <Property Name="id" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="name" Type="varchar" MaxLength="25" />
+  </EntityType>
+  <EntityType Name="client">
+    <Key>
+      <PropertyRef Name="id" />
+    </Key>
+    <Property Name="id" Type="int" Nullable="false" />
+    <Property Name="firstName" Type="varchar" MaxLength="20" />
+    <Property Name="lastName" Type="varchar" MaxLength="20" />
+    <Property Name="phone" Type="varchar" MaxLength="20" />
+    <Property Name="Email" Type="varchar" MaxLength="20" />
+    <Property Name="adress" Type="varchar" MaxLength="20" />
+  </EntityType>
+  <EntityType Name="Eorder">
+    <Key>
+      <PropertyRef Name="id" />
+    </Key>
+    <Property Name="id" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="clientid" Type="int" />
+    <Property Name="dateorder" Type="date" />
+  </EntityType>
+  <EntityType Name="Product">
+    <Key>
+      <PropertyRef Name="id" />
+    </Key>
+    <Property Name="id" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="name" Type="varchar" MaxLength="20" />
+    <Property Name="description" Type="text" />
+    <Property Name="image" Type="varchar" MaxLength="250" />
+    <Property Name="price" Type="smallmoney" />
+    <Property Name="categoryId" Type="int" />
+  </EntityType>
+  <EntityType Name="ProductOrder">
+    <Key>
+      <PropertyRef Name="productId" />
+      <PropertyRef Name="orderId" />
+    </Key>
+    <Property Name="productId" Type="int" Nullable="false" />
+    <Property Name="orderId" Type="int" Nullable="false" />
+    <Property Name="qt" Type="tinyint" />
+  </EntityType>
+  <EntityType Name="User">
+    <Key>
+      <PropertyRef Name="id" />
+    </Key>
+    <Property Name="id" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="login" Type="varchar" MaxLength="30" />
+    <Property Name="passwordd" Type="varchar" MaxLength="300" />
+  </EntityType>
+  <Association Name="FK__Eorder__clientid__534D60F1">
+    <End Role="client" Type="Self.client" Multiplicity="0..1" />
+    <End Role="Eorder" Type="Self.Eorder" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="client">
+        <PropertyRef Name="id" />
+      </Principal>
+      <Dependent Role="Eorder">
+        <PropertyRef Name="clientid" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK__Product__categor__4E88ABD4">
+    <End Role="Category" Type="Self.Category" Multiplicity="0..1" />
+    <End Role="Product" Type="Self.Product" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Category">
+        <PropertyRef Name="id" />
+      </Principal>
+      <Dependent Role="Product">
+        <PropertyRef Name="categoryId" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK__ProductOr__order__571DF1D5">
+    <End Role="Eorder" Type="Self.Eorder" Multiplicity="1" />
+    <End Role="ProductOrder" Type="Self.ProductOrder" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Eorder">
+        <PropertyRef Name="id" />
+      </Principal>
+      <Dependent Role="ProductOrder">
+        <PropertyRef Name="orderId" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK__ProductOr__produ__5629CD9C">
+    <End Role="Product" Type="Self.Product" Multiplicity="1" />
+    <End Role="ProductOrder" Type="Self.ProductOrder" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Product">
+        <PropertyRef Name="id" />
+      </Principal>
+      <Dependent Role="ProductOrder">
+        <PropertyRef Name="productId" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <EntityContainer Name="eComModelStoreContainer">
+    <EntitySet Name="Category" EntityType="Self.Category" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="client" EntityType="Self.client" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="Eorder" EntityType="Self.Eorder" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="Product" EntityType="Self.Product" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="ProductOrder" EntityType="Self.ProductOrder" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="User" EntityType="Self.User" Schema="dbo" store:Type="Tables" />
+    <AssociationSet Name="FK__Eorder__clientid__534D60F1" Association="Self.FK__Eorder__clientid__534D60F1">
+      <End Role="client" EntitySet="client" />
+      <End Role="Eorder" EntitySet="Eorder" />
+    </AssociationSet>
+    <AssociationSet Name="FK__Product__categor__4E88ABD4" Association="Self.FK__Product__categor__4E88ABD4">
+      <End Role="Category" EntitySet="Category" />
+      <End Role="Product" EntitySet="Product" />
+    </AssociationSet>
+    <AssociationSet Name="FK__ProductOr__order__571DF1D5" Association="Self.FK__ProductOr__order__571DF1D5">
+      <End Role="Eorder" EntitySet="Eorder" />
+      <End Role="ProductOrder" EntitySet="ProductOrder" />
+    </AssociationSet>
+    <AssociationSet Name="FK__ProductOr__produ__5629CD9C" Association="Self.FK__ProductOr__produ__5629CD9C">
+      <End Role="Product" EntitySet="Product" />
+      <End Role="ProductOrder" EntitySet="ProductOrder" />
+    </AssociationSet>
+  </EntityContainer>
+</Schema>

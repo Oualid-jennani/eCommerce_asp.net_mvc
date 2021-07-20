@@ -1,0 +1,47 @@
+﻿@model IEnumerable<eCommerce.Eorder>
+
+@{
+    ViewBag.Title = "Index";
+}
+
+<h2>Orders</h2>
+
+<p>
+    @Html.ActionLink("Create New", "Create")
+</p>
+<table class="table">
+    <tr>
+        <th>
+            @Html.DisplayNameFor(model => model.dateorder)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.client.firstName)
+        </th>
+		<th>produits commandés</th>
+    </tr>
+
+@foreach (var item in Model) {
+    <tr>
+        <td>
+            @Html.DisplayFor(modelItem => item.dateorder)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.client.firstName)
+        </td>
+		<td>
+			<ul>
+				@foreach(var p in item.ProductOrder)
+				{
+					<li>@p.Product.name</li>
+				}
+			</ul>
+		</td>
+        <td>
+            @Html.ActionLink("Edit", "Edit", new { id=item.id }) |
+            @Html.ActionLink("Details", "Details", new { id=item.id }) |
+            @Html.ActionLink("Delete", "Delete", new { id=item.id })
+        </td>
+    </tr>
+}
+
+</table>

@@ -1,0 +1,150 @@
+C:\Users\Walid\source\repos\eCommerce\WebServices\bin\WebServices.dll.config
+C:\Users\Walid\source\repos\eCommerce\WebServices\bin\WebServices.dll
+C:\Users\Walid\source\repos\eCommerce\WebServices\bin\WebServices.pdb
+C:\Users\Walid\source\repos\eCommerce\WebServices\bin\roslyn\csc.exe
+C:\Users\Walid\source\repos\eCommerce\WebServices\bin\roslyn\csc.exe.config
+C:\Users\Walid\source\repos\eCommerce\WebServices\bin\roslyn\csc.rsp
+C:\Users\Walid\source\repos\eCommerce\WebServices\bin\roslyn\csi.exe
+C:\Users\Walid\source\repos\eCommerce\WebServices\bin\roslyn\csi.exe.config
+C:\Users\Walid\source\repos\eCommerce\WebServices\bin\roslyn\csi.rsp
+C:\Users\Walid\source\repos\eCommerce\WebServices\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Walid\source\repos\eCommerce\WebServices\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Walid\source\repos\eCommerce\WebServices\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Walid\source\repos\eCommerce\WebServices\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Walid\source\repos\eCommerce\WebServices\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Walid\source\repos\eCommerce\WebServices\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Walid\source\repos\eCommerce\WebServices\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Walid\source\repos\eCommerce\WebServices\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Walid\source\repos\eCommerce\WebServices\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Walid\source\repos\eCommerce\WebServices\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Walid\source\repos\eCommerce\WebServices\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Walid\source\repos\eCommerce\WebServices\bin\roslyn\System.AppContext.dll
+C:\Users\Walid\source\repos\eCommerce\WebServices\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Walid\source\repos\eCommerce\WebServices\bin\roslyn\System.Console.dll
+C:\Users\Walid\source\repos\eCommerce\WebServices\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Walid\source\repos\eCommerce\WebServices\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Walid\source\repos\eCommerce\WebServices\bin\roslyn\System.IO.Compression.dll
+C:\Users\Walid\source\repos\eCommerce\WebServices\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Walid\source\repos\eCommerce\WebServices\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Walid\source\repos\eCommerce\WebServices\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\Walid\source\repos\eCommerce\WebServices\bin\roslyn\System.IO.Pipes.dll
+C:\Users\Walid\source\repos\eCommerce\WebServices\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Walid\source\repos\eCommerce\WebServices\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\Walid\source\repos\eCommerce\WebServices\bin\roslyn\System.Security.Claims.dll
+C:\Users\Walid\source\repos\eCommerce\WebServices\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Walid\source\repos\eCommerce\WebServices\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Walid\source\repos\eCommerce\WebServices\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Walid\source\repos\eCommerce\WebServices\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Walid\source\repos\eCommerce\WebServices\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\Walid\source\repos\eCommerce\WebServices\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Walid\source\repos\eCommerce\WebServices\bin\roslyn\System.ValueTuple.dll
+C:\Users\Walid\source\repos\eCommerce\WebServices\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Walid\source\repos\eCommerce\WebServices\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Walid\source\repos\eCommerce\WebServices\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Walid\source\repos\eCommerce\WebServices\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Walid\source\repos\eCommerce\WebServices\bin\roslyn\vbc.exe
+C:\Users\Walid\source\repos\eCommerce\WebServices\bin\roslyn\vbc.exe.config
+C:\Users\Walid\source\repos\eCommerce\WebServices\bin\roslyn\vbc.rsp
+C:\Users\Walid\source\repos\eCommerce\WebServices\bin\roslyn\VBCSCompiler.exe
+C:\Users\Walid\source\repos\eCommerce\WebServices\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Walid\source\repos\eCommerce\WebServices\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Walid\source\repos\eCommerce\WebServices\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Walid\source\repos\eCommerce\WebServices\bin\System.Web.Helpers.dll
+C:\Users\Walid\source\repos\eCommerce\WebServices\bin\System.Web.Mvc.dll
+C:\Users\Walid\source\repos\eCommerce\WebServices\bin\System.Web.Razor.dll
+C:\Users\Walid\source\repos\eCommerce\WebServices\bin\System.Web.Webpages.Deployment.dll
+C:\Users\Walid\source\repos\eCommerce\WebServices\bin\System.Web.Webpages.dll
+C:\Users\Walid\source\repos\eCommerce\WebServices\bin\System.Web.Webpages.Razor.dll
+C:\Users\Walid\source\repos\eCommerce\WebServices\bin\System.Web.Razor.xml
+C:\Users\Walid\source\repos\eCommerce\WebServices\bin\System.Web.Webpages.xml
+C:\Users\Walid\source\repos\eCommerce\WebServices\bin\System.Web.Webpages.Deployment.xml
+C:\Users\Walid\source\repos\eCommerce\WebServices\bin\System.Web.Webpages.Razor.xml
+C:\Users\Walid\source\repos\eCommerce\WebServices\bin\System.Web.Helpers.xml
+C:\Users\Walid\source\repos\eCommerce\WebServices\bin\System.Web.Mvc.xml
+C:\Users\Walid\source\repos\eCommerce\WebServices\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Walid\source\repos\eCommerce\WebServices\bin\fr\System.Web.Razor.resources.dll
+C:\Users\Walid\source\repos\eCommerce\WebServices\bin\fr\System.Web.Webpages.resources.dll
+C:\Users\Walid\source\repos\eCommerce\WebServices\bin\fr\System.Web.Webpages.Deployment.resources.dll
+C:\Users\Walid\source\repos\eCommerce\WebServices\bin\fr\System.Web.Webpages.Razor.resources.dll
+C:\Users\Walid\source\repos\eCommerce\WebServices\bin\fr\System.Web.Helpers.resources.dll
+C:\Users\Walid\source\repos\eCommerce\WebServices\bin\fr\System.Web.Mvc.resources.dll
+C:\Users\Walid\source\repos\eCommerce\WebServices\obj\Debug\WebServices.csprojAssemblyReference.cache
+C:\Users\Walid\source\repos\eCommerce\WebServices\obj\Debug\WebServices.csproj.CoreCompileInputs.cache
+C:\Users\Walid\source\repos\eCommerce\WebServices\obj\Debug\WebServices.csproj.CopyComplete
+C:\Users\Walid\source\repos\eCommerce\WebServices\obj\Debug\WebServices.dll
+C:\Users\Walid\source\repos\eCommerce\WebServices\obj\Debug\WebServices.pdb
+C:\Users\Walid\Desktop\Cours de développeur\ASP.NET\Exercice\Proget_eCommerce\eCommerce\WebServices\bin\WebServices.dll.config
+C:\Users\Walid\Desktop\Cours de développeur\ASP.NET\Exercice\Proget_eCommerce\eCommerce\WebServices\bin\WebServices.dll
+C:\Users\Walid\Desktop\Cours de développeur\ASP.NET\Exercice\Proget_eCommerce\eCommerce\WebServices\bin\WebServices.pdb
+C:\Users\Walid\Desktop\Cours de développeur\ASP.NET\Exercice\Proget_eCommerce\eCommerce\WebServices\bin\roslyn\csc.exe
+C:\Users\Walid\Desktop\Cours de développeur\ASP.NET\Exercice\Proget_eCommerce\eCommerce\WebServices\bin\roslyn\csc.exe.config
+C:\Users\Walid\Desktop\Cours de développeur\ASP.NET\Exercice\Proget_eCommerce\eCommerce\WebServices\bin\roslyn\csc.rsp
+C:\Users\Walid\Desktop\Cours de développeur\ASP.NET\Exercice\Proget_eCommerce\eCommerce\WebServices\bin\roslyn\csi.exe
+C:\Users\Walid\Desktop\Cours de développeur\ASP.NET\Exercice\Proget_eCommerce\eCommerce\WebServices\bin\roslyn\csi.exe.config
+C:\Users\Walid\Desktop\Cours de développeur\ASP.NET\Exercice\Proget_eCommerce\eCommerce\WebServices\bin\roslyn\csi.rsp
+C:\Users\Walid\Desktop\Cours de développeur\ASP.NET\Exercice\Proget_eCommerce\eCommerce\WebServices\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Walid\Desktop\Cours de développeur\ASP.NET\Exercice\Proget_eCommerce\eCommerce\WebServices\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Walid\Desktop\Cours de développeur\ASP.NET\Exercice\Proget_eCommerce\eCommerce\WebServices\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Walid\Desktop\Cours de développeur\ASP.NET\Exercice\Proget_eCommerce\eCommerce\WebServices\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Walid\Desktop\Cours de développeur\ASP.NET\Exercice\Proget_eCommerce\eCommerce\WebServices\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Walid\Desktop\Cours de développeur\ASP.NET\Exercice\Proget_eCommerce\eCommerce\WebServices\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Walid\Desktop\Cours de développeur\ASP.NET\Exercice\Proget_eCommerce\eCommerce\WebServices\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Walid\Desktop\Cours de développeur\ASP.NET\Exercice\Proget_eCommerce\eCommerce\WebServices\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Walid\Desktop\Cours de développeur\ASP.NET\Exercice\Proget_eCommerce\eCommerce\WebServices\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Walid\Desktop\Cours de développeur\ASP.NET\Exercice\Proget_eCommerce\eCommerce\WebServices\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Walid\Desktop\Cours de développeur\ASP.NET\Exercice\Proget_eCommerce\eCommerce\WebServices\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Walid\Desktop\Cours de développeur\ASP.NET\Exercice\Proget_eCommerce\eCommerce\WebServices\bin\roslyn\System.AppContext.dll
+C:\Users\Walid\Desktop\Cours de développeur\ASP.NET\Exercice\Proget_eCommerce\eCommerce\WebServices\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Walid\Desktop\Cours de développeur\ASP.NET\Exercice\Proget_eCommerce\eCommerce\WebServices\bin\roslyn\System.Console.dll
+C:\Users\Walid\Desktop\Cours de développeur\ASP.NET\Exercice\Proget_eCommerce\eCommerce\WebServices\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Walid\Desktop\Cours de développeur\ASP.NET\Exercice\Proget_eCommerce\eCommerce\WebServices\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Walid\Desktop\Cours de développeur\ASP.NET\Exercice\Proget_eCommerce\eCommerce\WebServices\bin\roslyn\System.IO.Compression.dll
+C:\Users\Walid\Desktop\Cours de développeur\ASP.NET\Exercice\Proget_eCommerce\eCommerce\WebServices\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Walid\Desktop\Cours de développeur\ASP.NET\Exercice\Proget_eCommerce\eCommerce\WebServices\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Walid\Desktop\Cours de développeur\ASP.NET\Exercice\Proget_eCommerce\eCommerce\WebServices\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\Walid\Desktop\Cours de développeur\ASP.NET\Exercice\Proget_eCommerce\eCommerce\WebServices\bin\roslyn\System.IO.Pipes.dll
+C:\Users\Walid\Desktop\Cours de développeur\ASP.NET\Exercice\Proget_eCommerce\eCommerce\WebServices\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Walid\Desktop\Cours de développeur\ASP.NET\Exercice\Proget_eCommerce\eCommerce\WebServices\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\Walid\Desktop\Cours de développeur\ASP.NET\Exercice\Proget_eCommerce\eCommerce\WebServices\bin\roslyn\System.Security.Claims.dll
+C:\Users\Walid\Desktop\Cours de développeur\ASP.NET\Exercice\Proget_eCommerce\eCommerce\WebServices\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Walid\Desktop\Cours de développeur\ASP.NET\Exercice\Proget_eCommerce\eCommerce\WebServices\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Walid\Desktop\Cours de développeur\ASP.NET\Exercice\Proget_eCommerce\eCommerce\WebServices\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Walid\Desktop\Cours de développeur\ASP.NET\Exercice\Proget_eCommerce\eCommerce\WebServices\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Walid\Desktop\Cours de développeur\ASP.NET\Exercice\Proget_eCommerce\eCommerce\WebServices\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\Walid\Desktop\Cours de développeur\ASP.NET\Exercice\Proget_eCommerce\eCommerce\WebServices\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Walid\Desktop\Cours de développeur\ASP.NET\Exercice\Proget_eCommerce\eCommerce\WebServices\bin\roslyn\System.ValueTuple.dll
+C:\Users\Walid\Desktop\Cours de développeur\ASP.NET\Exercice\Proget_eCommerce\eCommerce\WebServices\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Walid\Desktop\Cours de développeur\ASP.NET\Exercice\Proget_eCommerce\eCommerce\WebServices\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Walid\Desktop\Cours de développeur\ASP.NET\Exercice\Proget_eCommerce\eCommerce\WebServices\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Walid\Desktop\Cours de développeur\ASP.NET\Exercice\Proget_eCommerce\eCommerce\WebServices\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Walid\Desktop\Cours de développeur\ASP.NET\Exercice\Proget_eCommerce\eCommerce\WebServices\bin\roslyn\vbc.exe
+C:\Users\Walid\Desktop\Cours de développeur\ASP.NET\Exercice\Proget_eCommerce\eCommerce\WebServices\bin\roslyn\vbc.exe.config
+C:\Users\Walid\Desktop\Cours de développeur\ASP.NET\Exercice\Proget_eCommerce\eCommerce\WebServices\bin\roslyn\vbc.rsp
+C:\Users\Walid\Desktop\Cours de développeur\ASP.NET\Exercice\Proget_eCommerce\eCommerce\WebServices\bin\roslyn\VBCSCompiler.exe
+C:\Users\Walid\Desktop\Cours de développeur\ASP.NET\Exercice\Proget_eCommerce\eCommerce\WebServices\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Walid\Desktop\Cours de développeur\ASP.NET\Exercice\Proget_eCommerce\eCommerce\WebServices\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Walid\Desktop\Cours de développeur\ASP.NET\Exercice\Proget_eCommerce\eCommerce\WebServices\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Walid\Desktop\Cours de développeur\ASP.NET\Exercice\Proget_eCommerce\eCommerce\WebServices\bin\System.Web.Helpers.dll
+C:\Users\Walid\Desktop\Cours de développeur\ASP.NET\Exercice\Proget_eCommerce\eCommerce\WebServices\bin\System.Web.Mvc.dll
+C:\Users\Walid\Desktop\Cours de développeur\ASP.NET\Exercice\Proget_eCommerce\eCommerce\WebServices\bin\System.Web.Razor.dll
+C:\Users\Walid\Desktop\Cours de développeur\ASP.NET\Exercice\Proget_eCommerce\eCommerce\WebServices\bin\System.Web.Webpages.Deployment.dll
+C:\Users\Walid\Desktop\Cours de développeur\ASP.NET\Exercice\Proget_eCommerce\eCommerce\WebServices\bin\System.Web.Webpages.dll
+C:\Users\Walid\Desktop\Cours de développeur\ASP.NET\Exercice\Proget_eCommerce\eCommerce\WebServices\bin\System.Web.Webpages.Razor.dll
+C:\Users\Walid\Desktop\Cours de développeur\ASP.NET\Exercice\Proget_eCommerce\eCommerce\WebServices\bin\System.Web.Razor.xml
+C:\Users\Walid\Desktop\Cours de développeur\ASP.NET\Exercice\Proget_eCommerce\eCommerce\WebServices\bin\System.Web.Webpages.xml
+C:\Users\Walid\Desktop\Cours de développeur\ASP.NET\Exercice\Proget_eCommerce\eCommerce\WebServices\bin\System.Web.Webpages.Deployment.xml
+C:\Users\Walid\Desktop\Cours de développeur\ASP.NET\Exercice\Proget_eCommerce\eCommerce\WebServices\bin\System.Web.Webpages.Razor.xml
+C:\Users\Walid\Desktop\Cours de développeur\ASP.NET\Exercice\Proget_eCommerce\eCommerce\WebServices\bin\System.Web.Helpers.xml
+C:\Users\Walid\Desktop\Cours de développeur\ASP.NET\Exercice\Proget_eCommerce\eCommerce\WebServices\bin\System.Web.Mvc.xml
+C:\Users\Walid\Desktop\Cours de développeur\ASP.NET\Exercice\Proget_eCommerce\eCommerce\WebServices\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Walid\Desktop\Cours de développeur\ASP.NET\Exercice\Proget_eCommerce\eCommerce\WebServices\bin\fr\System.Web.Razor.resources.dll
+C:\Users\Walid\Desktop\Cours de développeur\ASP.NET\Exercice\Proget_eCommerce\eCommerce\WebServices\bin\fr\System.Web.Webpages.resources.dll
+C:\Users\Walid\Desktop\Cours de développeur\ASP.NET\Exercice\Proget_eCommerce\eCommerce\WebServices\bin\fr\System.Web.Webpages.Deployment.resources.dll
+C:\Users\Walid\Desktop\Cours de développeur\ASP.NET\Exercice\Proget_eCommerce\eCommerce\WebServices\bin\fr\System.Web.Webpages.Razor.resources.dll
+C:\Users\Walid\Desktop\Cours de développeur\ASP.NET\Exercice\Proget_eCommerce\eCommerce\WebServices\bin\fr\System.Web.Helpers.resources.dll
+C:\Users\Walid\Desktop\Cours de développeur\ASP.NET\Exercice\Proget_eCommerce\eCommerce\WebServices\bin\fr\System.Web.Mvc.resources.dll
+C:\Users\Walid\Desktop\Cours de développeur\ASP.NET\Exercice\Proget_eCommerce\eCommerce\WebServices\obj\Debug\WebServices.csprojAssemblyReference.cache
+C:\Users\Walid\Desktop\Cours de développeur\ASP.NET\Exercice\Proget_eCommerce\eCommerce\WebServices\obj\Debug\WebServices.csproj.CoreCompileInputs.cache
+C:\Users\Walid\Desktop\Cours de développeur\ASP.NET\Exercice\Proget_eCommerce\eCommerce\WebServices\obj\Debug\WebServices.csproj.CopyComplete
+C:\Users\Walid\Desktop\Cours de développeur\ASP.NET\Exercice\Proget_eCommerce\eCommerce\WebServices\obj\Debug\WebServices.dll
+C:\Users\Walid\Desktop\Cours de développeur\ASP.NET\Exercice\Proget_eCommerce\eCommerce\WebServices\obj\Debug\WebServices.pdb

@@ -1,0 +1,12 @@
+﻿
+@{
+    ViewBag.Title = "Index";
+}
+
+<h2>Dashboard</h2>
+
+<table class="table">
+	<tr><th>Nombre de commandes aujourd’hui</th><th>Nombre total de commandes</th><th>Nombre de clients</th><th>Chiffre d’affaire aujourd’hui</th><th>Chiffre d’affaire du mois</th><th>Chiffre d’affaire tota</th></tr>
+	<tr><td>@ViewBag.commandes</td><td>@ViewBag.CountCom</td><td>@ViewBag.NbClient</td><td>@ViewBag.ChifrDFday</td><td>@ViewBag.ChifrMonth</td><td>@ViewBag.Chifryear</td></tr>
+</table>
+

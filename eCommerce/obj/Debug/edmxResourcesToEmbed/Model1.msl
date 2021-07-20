@@ -1,0 +1,64 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="eComModelStoreContainer" CdmEntityContainer="eComEntities">
+    <EntitySetMapping Name="Category">
+      <EntityTypeMapping TypeName="eComModel.Category">
+        <MappingFragment StoreEntitySet="Category">
+          <ScalarProperty Name="id" ColumnName="id" />
+          <ScalarProperty Name="name" ColumnName="name" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="client">
+      <EntityTypeMapping TypeName="eComModel.client">
+        <MappingFragment StoreEntitySet="client">
+          <ScalarProperty Name="id" ColumnName="id" />
+          <ScalarProperty Name="firstName" ColumnName="firstName" />
+          <ScalarProperty Name="lastName" ColumnName="lastName" />
+          <ScalarProperty Name="phone" ColumnName="phone" />
+          <ScalarProperty Name="Email" ColumnName="Email" />
+          <ScalarProperty Name="adress" ColumnName="adress" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Eorder">
+      <EntityTypeMapping TypeName="eComModel.Eorder">
+        <MappingFragment StoreEntitySet="Eorder">
+          <ScalarProperty Name="id" ColumnName="id" />
+          <ScalarProperty Name="clientid" ColumnName="clientid" />
+          <ScalarProperty Name="dateorder" ColumnName="dateorder" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Product">
+      <EntityTypeMapping TypeName="eComModel.Product">
+        <MappingFragment StoreEntitySet="Product">
+          <ScalarProperty Name="id" ColumnName="id" />
+          <ScalarProperty Name="name" ColumnName="name" />
+          <ScalarProperty Name="description" ColumnName="description" />
+          <ScalarProperty Name="image" ColumnName="image" />
+          <ScalarProperty Name="price" ColumnName="price" />
+          <ScalarProperty Name="categoryId" ColumnName="categoryId" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="ProductOrder">
+      <EntityTypeMapping TypeName="eComModel.ProductOrder">
+        <MappingFragment StoreEntitySet="ProductOrder">
+          <ScalarProperty Name="productId" ColumnName="productId" />
+          <ScalarProperty Name="orderId" ColumnName="orderId" />
+          <ScalarProperty Name="qt" ColumnName="qt" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="User">
+      <EntityTypeMapping TypeName="eComModel.User">
+        <MappingFragment StoreEntitySet="User">
+          <ScalarProperty Name="passwordd" ColumnName="passwordd" />
+          <ScalarProperty Name="login" ColumnName="login" />
+          <ScalarProperty Name="id" ColumnName="id" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+  </EntityContainerMapping>
+</Mapping>
